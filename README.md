@@ -18,8 +18,11 @@ Marketing team
 - Linsda
 - Collins
 - Yaroslava
-- Amagnda
 - Tzhaci
+- Alexei
+- Amanda
+- Dmytro
+- Stas
 asdkjasdasdasdhaskdjhasd
 asdasjdhkasdasdasd9889293409823kjjkfsdfasdhjkasdhkuashdasjd'
 sdflkjsdfksdf
