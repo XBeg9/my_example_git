@@ -1,13 +1,26 @@
 # my_example_git
 
+Finance team
+-Charles
+-Lisa
+-John
+
 askjsadasasdasdhaskjdhkjash
 a
-aksdjhakjsdhkajsdhasj dhasda
+fsdfsdf dhasda
 asdljgasdjgasdas
 'd
-asdasjdhkasdhjkasdhkuashdasjd'
 
-
-asdkhaskdjhasj d
-asdkjhaskdjhasd
+sdfsdfsdfdf
+Marketing team
+- Collins
+- Linda
+- Patricia
+- Morgan
+- Amanda
+asdkjasdasdasdhaskdjhasd
+asdasjdhkasdasdasd9889293409823kjjkfsdfasdhjkasdhkuashdasjd'
+sdflkjsdfksdf
+asdkhaskdjhasj ds
 uagsdjasg
+dfskdjfhkjsdfsf
