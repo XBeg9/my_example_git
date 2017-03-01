@@ -17,7 +17,9 @@ Marketing team
 - Morgsaan
 - Linsda
 - Collins
+- Yaroslava
 - Amagnda
+- Tzhaci
 asdkjasdasdasdhaskdjhasd
 asdasjdhkasdasdasd9889293409823kjjkfsdfasdhjkasdhkuashdasjd'
 sdflkjsdfksdf
