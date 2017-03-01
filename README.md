@@ -1,8 +1,8 @@
 # my_example_git
 
 Finance team
--Charles
 -Lisa
+-Charles
 -John
 
 askjsadasasdasdhaskjdhkjash
@@ -11,13 +11,13 @@ fsdfsdf dhasda
 asdljgasdjgasdas
 'd
 
-sdfsdfsdfdf
 Marketing team
+- Fedya
+- Patria
+- Morgsaan
+- Linsda
 - Collins
-- Linda
-- Patricia
-- Morgan
-- Amanda
+- Amagnda
 asdkjasdasdasdhaskdjhasd
 asdasjdhkasdasdasd9889293409823kjjkfsdfasdhjkasdhkuashdasjd'
 sdflkjsdfksdf
